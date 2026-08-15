@@ -1,0 +1,17 @@
+SAINTS CONNECTIONS INDEX — internal use only
+
+Not part of the site's content (never linked from any page, not part of the
+"read another one" loops, no lowercase-style rule applies here). Purpose:
+quick lookup of each saint's existing connections and core themes, so that
+adding a new verse/prayer/saint can check for genuine resonance without
+re-reading every saints/*.txt in full — same role all-verses-archive.html
+and all-prayers-archive.html play for the two "read another one" loops.
+
+KEEP IN SYNC: whenever a saint is added, or a verse/prayer/saint connection
+is added or removed anywhere on the site, update this file in the same
+commit. If this file and the saints/*.txt files ever disagree, the .txt
+files are the source of truth — treat the mismatch as a bug to fix here,
+not in them.
+
+No saints yet — blocks are added here as they're created (see soul-it's
+CLAUDE.md, "Saints" workflow).

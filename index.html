@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8">
+    <title>soul // it</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <link rel="icon" type="image/png" href="/soul-it/soulfavicon.png" media="(prefers-color-scheme: light)">
+    <link rel="icon" type="image/png" href="/soul-it/soulfavicon_dark.png" media="(prefers-color-scheme: dark)">
+
+    <style>
+      :root {
+        --bg: #ffffff;
+        --fg: #111111;
+        --link: #005bff;
+
+        --mark-light: rgba(255, 241, 118, 0.9);
+        --mark-dark: rgba(255, 235, 59, 0.9);
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #000000;
+          --fg: #ffffff;
+          --link: #8fc9ed;
+        }
+      }
+
+      html, body { height: 100%; }
+      html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--fg);
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+        line-height: 1.35;
+        -webkit-font-smoothing: antialiased;
+        padding: 16px;
+      }
+
+      @media (hover: hover) and (pointer: fine) {
+        body {
+          font-size: 12.6px;
+        }
+      }
+
+      a, a:visited {
+        color: var(--link);
+        text-decoration: none;
+      }
+
+      a:hover { text-decoration: underline; }
+
+      pre {
+        margin: 0;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+      }
+
+      mark {
+        background: none;
+        color: inherit;
+        padding: 0 2px;
+        background-image: linear-gradient(
+          transparent 62%,
+          var(--mark-light) 62%
+        );
+      }
+
+      @media (prefers-color-scheme: dark) {
+        mark {
+          background: none;
+          padding: 0;
+          color: var(--fg);
+          text-decoration: underline;
+          text-decoration-thickness: 2px;
+          text-underline-offset: 0.15em;
+          text-decoration-color: var(--mark-dark);
+        }
+      }
+
+      .counter {
+        color: #767676;
+        font-size: 0.8em;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .counter {
+          color: #999;
+        }
+      }
+
+      #search-input {
+        font: inherit;
+        font-size: inherit;
+        color: var(--fg);
+        background: transparent;
+        border: none;
+        border-bottom: 1px solid var(--link);
+        outline: none;
+        width: 200px;
+      }
+
+      #search-input::placeholder {
+        color: #767676;
+      }
+    </style>
+  </head>
+
+  <body>
+<pre>
+<mark>soul // it</mark>
+↳ <a href="https://ivana-rep.github.io/soul/">en</a> // it
+
+diario devozionale digitale
+↳ <a href="post.html?p=guides/come-leggere-la-bibbia.txt">come leggere la bibbia</a>, un ordine di lettura suggerito per le scritture
+↳ <a href="path-for-the-skeptical.html">un percorso per gli scettici</a>, sei domande per chi non è ancora sicuro
+↳ <a href="archive.html">versetti biblici e preghiere</a> che mi hanno colpito, o hanno acceso una qualche riflessione
+	↳ <a href="archive.html#by-author">autore/libro</a> (versetti)
+	↳ <a href="archive.html#by-topic">argomento</a> (versetti e preghiere)
+↳ <a href="saints.html">santi</a> la cui vita e le cui parole risuonano con me
+↳ <a href="all-commonplace-archive.html">citazioni</a>, su spiritualità e religione
+
+↳ ricerca: <input type="text" id="search-input" placeholder="parola chiave" autocomplete="off" spellcheck="false"> <span class="counter" id="search-status"></span> <span class="counter" id="search-clear" style="display:none">// <a href="#" id="search-clear-link">cancella risultati</a></span>
+<span id="search-results"></span>
+
+↳ contatti: <a href="https://t.me/ivana_tg">telegram @ivana_tg</a>
+↳ altri progetti: <a href="https://ivana-rep.github.io/thoughtcapsules/">thought capsules</a>
+</pre>
+
+<script>
+(function () {
+  const input = document.getElementById("search-input");
+  const status = document.getElementById("search-status");
+  const results = document.getElementById("search-results");
+  const clearWrap = document.getElementById("search-clear");
+  const clearLink = document.getElementById("search-clear-link");
+
+  const listingPages = [
+    "all-verses-archive.html",
+    "all-prayers-archive.html",
+    "all-commonplace-archive.html",
+    "saints.html",
+    "archive.html"
+  ];
+
+  let indexPromise = null;
+  let timer = null;
+
+  function typeLabel(path) {
+    if (path.startsWith("bible/")) return "versetto";
+    if (path.startsWith("prayers/")) return "preghiera";
+    if (path.startsWith("commonplace/")) return "citazione";
+    if (path.startsWith("saints/")) return "santo";
+    if (path.startsWith("what-is-it/")) return "cos'è";
+    return "";
+  }
+
+  function escapeHTML(str) {
+    return str
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;");
+  }
+
+  function escapeRegExp(str) {
+    return str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  }
+
+  function buildIndex() {
+    if (indexPromise) return indexPromise;
+
+    indexPromise = Promise.all(
+      listingPages.map(page =>
+        fetch(page).then(r => r.text()).catch(() => "")
+      )
+    ).then(pages => {
+      const found = new Map();
+      const linkRe = /<a href="post\.html\?p=([^"]+\.txt)">([^<]*)<\/a>/g;
+
+      for (const html of pages) {
+        let m;
+        while ((m = linkRe.exec(html))) {
+          if (!found.has(m[1])) found.set(m[1], m[2]);
+        }
+      }
+
+      return Promise.all(
+        [...found.entries()].map(([path, title]) =>
+          fetch(path)
+            .then(r => r.text())
+            .then(text => ({ path, title, text }))
+            .catch(() => null)
+        )
+      ).then(entries => entries.filter(Boolean));
+    });
+
+    return indexPromise;
+  }
+
+  function snippet(text, query) {
+    const at = text.toLowerCase().indexOf(query.toLowerCase());
+    if (at === -1) return "";
+
+    const start = Math.max(0, at - 40);
+    const end = Math.min(text.length, at + query.length + 40);
+    const excerpt = escapeHTML(text.slice(start, end).replace(/\s+/g, " ").trim());
+    const highlighted = excerpt.replace(
+      new RegExp(escapeRegExp(escapeHTML(query)), "ig"),
+      m => `<mark>${m}</mark>`
+    );
+
+    return (start > 0 ? "…" : "") + highlighted + (end < text.length ? "…" : "");
+  }
+
+  function search(query) {
+    buildIndex().then(entries => {
+      const q = query.toLowerCase();
+      const matches = entries.filter(e => e.text.toLowerCase().includes(q));
+
+      if (matches.length === 0) {
+        status.textContent = "nessun risultato";
+        results.innerHTML = "";
+        return;
+      }
+
+      status.textContent = matches.length + " risultat" + (matches.length === 1 ? "o" : "i");
+
+      results.innerHTML = matches
+        .map(e => {
+          const line1 = `↳ <a href="post.html?p=${e.path}">${escapeHTML(e.title)}</a><span class="counter"> // ${typeLabel(e.path)}</span>`;
+          const line2 = `<span class="counter">   ${snippet(e.text, query)}</span>`;
+          return line1 + "\n" + line2;
+        })
+        .join("\n\n") + "\n";
+    });
+  }
+
+  input.addEventListener("input", () => {
+    clearTimeout(timer);
+    const query = input.value.trim();
+
+    if (query.length < 2) {
+      status.textContent = "";
+      results.innerHTML = "";
+      clearWrap.style.display = "none";
+      return;
+    }
+
+    status.textContent = "ricerca in corso…";
+    clearWrap.style.display = "";
+    timer = setTimeout(() => search(query), 250);
+  });
+
+  clearLink.addEventListener("click", e => {
+    e.preventDefault();
+    input.value = "";
+    status.textContent = "";
+    results.innerHTML = "";
+    clearWrap.style.display = "none";
+    input.focus();
+  });
+})();
+</script>
+
+  </body>
+</html>
