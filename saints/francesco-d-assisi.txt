@@ -33,6 +33,7 @@ giorno della festa: 4 ottobre
 
 ↳ connessioni
 ↳ versetto: [Genesi 1:1 — in principio](post.html?p=bible/genesis_1-1.txt)
+↳ versetto: [Numeri 6:24-26 — il signore ti benedica e ti protegga](post.html?p=bible/numbers_6-24-26.txt)
 ↳ versetto: [Luca 12:15 — la vita non è ciò che possiedi](post.html?p=bible/luke_12-15.txt)
 ↳ versetto: [Giovanni 20:19 — pace a voi](post.html?p=bible/john_20-19.txt)
 ↳ versetto: [Giovanni 14:21-27 — la pace come dono](post.html?p=bible/john_14-21-27.txt)
