@@ -21,6 +21,7 @@ questo cambia tutto, cambia il tono di ogni conversazione, cambia il modo di gua
 ~ ↳ vedi connessione con un santo > [Giuseppe](post.html?p=saints/giuseppe.txt)
 
 ~ ↳ versetti correlati >
+~ [Giovanni 13:34 | amatevi gli uni gli altri](post.html?p=bible/john_13-34.txt)
 ~ [Romani 12:19 | non vendicatevi mai](post.html?p=bible/romans_12-19.txt)
 ~ [Romani 12:21 | vinci il male con il bene](post.html?p=bible/romans_12-21.txt)
 
