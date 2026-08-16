@@ -40,4 +40,5 @@ c. 1216 | diventa badessa di San Damiano, un ruolo che mantiene per quasi quaran
 ↳ connessioni
 ↳ versetto: [Luca 12:15 — la vita non è ciò che possiedi](post.html?p=bible/luke_12-15.txt)
 ↳ versetto: [Giovanni 15:1-13 — rimanete in me](post.html?p=bible/john_15-1-13.txt)
+↳ versetto: [Salmi 91:10-11 — Egli darà ordine ai Suoi angeli di custodirti](post.html?p=bible/psalms_91-10-11.txt)
 ↳ preghiera: [custodisci il mio cuore](post.html?p=prayers/custodisci-il-mio-cuore.txt)
