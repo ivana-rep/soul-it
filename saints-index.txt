@@ -13,5 +13,35 @@ commit. If this file and the saints/*.txt files ever disagree, the .txt
 files are the source of truth — treat the mismatch as a bug to fix here,
 not in them.
 
-No saints yet — blocks are added here as they're created (see soul-it's
-CLAUDE.md, "Saints" workflow).
+---
+
+agostino-d-ippona | Agostino d'Ippona | feast: 28 agosto
+themes: conversione, inquietudine/ricerca di Dio, peccato e grazia, provvidenza/tempo, Cristo che abita in noi
+verses: Isaia 60:22 (a suo tempo) | Colossesi 1:27 (Cristo in voi, speranza della gloria) | Salmi 34:19 (il Signore viene in soccorso) | Salmi 14:3 (non c'è chi agisca bene) | Romani 5:8 (mentre eravamo ancora peccatori) | 1 Cronache 16:11 (ricercate sempre il Suo volto) | Romani 8:18-25 (un anticipo di gloria) | Galati 5:1-26 (aspettiamo per mezzo dello Spirito) | Qoelet 3:1-8 (tutto ha il suo momento) | Salmi 86:11 (mostrami la Tua via) | Romani 3:23 (privi della gloria di Dio) | Romani 6:23 (il dono di Dio) | Romani 5:1-3 (giustificati per la fede) | 1 Timoteo 2:5 (uno solo il mediatore) | Atti 4:12 (nessun altro nome)
+prayers: cercarti, trovarti | con me e dentro di me | forma qualcosa in me
+commonplace: non sto aspettando invano
+capsules: 2026-06-13 To inhabit | 2026-06-09 Enough | 2026-06-02 Discovery
+
+antonio-di-padova | Antonio di Padova | feast: 13 giugno
+themes: predicazione, dono nascosto che emerge di lato/non pianificato, mentorship e riconoscimento (Francesco), Dottore della Chiesa, reliquia incorrotta / eredità
+verses: Luca 12:15 (la vita non è ciò che possiedi) | Romani 8:28 (tutto concorre al bene)
+prayers: —
+capsules: 2026-07-15 In the doing | 2026-07-13 From the inside
+
+chiara-d-assisi | Chiara d'Assisi | feast: 11 agosto
+themes: povertà / Privilegio della povertà, immobilità come coraggio (assedio di San Damiano), mentorship per lettera (Agnese di Praga), contemplazione / immagine dello specchio, eredità
+verses: Luca 12:15 (la vita non è ciò che possiedi) | Giovanni 15:1-13 (rimanete in me)
+prayers: custodisci il mio cuore
+capsules: —
+
+francesco-d-assisi | Francesco d'Assisi | feast: 4 ottobre
+themes: semplicità e minimalismo, povertà, natura/creato come riflesso di Dio, pace, sottrazione, eredità (Clarisse, tradizione del presepe, Cantico delle creature)
+verses: Genesi 1:1 (in principio) | Luca 12:15 (la vita non è ciò che possiedi) | Giovanni 20:19 (pace a voi) | Luca 19:38 (benedizioni sul re) | Giovanni 14:21-27 (la pace come dono) | Salmi 40:4 (un canto nuovo) | Matteo 5:1-48 (il discorso della montagna) | 2 Tessalonicesi 3:16 (il Signore sia con voi)
+prayers: custodisci il mio cuore | che la mia vita sia un canto di lode
+capsules: 2026-06-09 Enough | 2026-05-12 Subtraction | 2026-03-31 Form, not constraint | 2026-03-22 Smaller patch | 2026-03-09 Gratitude as act | 2026-02-11 Complicating water
+
+giuseppe | Giuseppe | feast: 19 marzo (venerato anche il 1° maggio come San Giuseppe lavoratore)
+themes: silenzio / assenza di parole registrate, traduzione e il peso di una singola parola, misericordia scelta al posto della legge, dignità silenziosa del lavoro, eredità
+verses: Romani 12:19 (non vendicatevi mai) | Marco 11:23-25 (chiedete, credete, perdonate) | Luca 6:36 (siate misericordiosi) | Romani 12:21 (vinci il male con il bene)
+prayers: ama le persone come le ami Tu
+capsules: 2026-04-21 Recognition | 2026-04-18 The gap
