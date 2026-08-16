@@ -43,5 +43,5 @@ capsules: 2026-06-09 Enough | 2026-05-12 Subtraction | 2026-03-31 Form, not cons
 giuseppe | Giuseppe | feast: 19 marzo (venerato anche il 1° maggio come San Giuseppe lavoratore)
 themes: silenzio / assenza di parole registrate, traduzione e il peso di una singola parola, misericordia scelta al posto della legge, dignità silenziosa del lavoro, eredità
 verses: Romani 12:19 (non vendicatevi mai) | Marco 11:23-25 (chiedete, credete, perdonate) | Luca 6:36 (siate misericordiosi) | Romani 12:21 (vinci il male con il bene) | Matteo 5:44 (amate i vostri nemici)
-prayers: ama le persone come le ami Tu
+prayers: ama le persone come le ami Tu | scelgo di perdonare
 capsules: 2026-04-21 Recognition | 2026-04-18 The gap
