@@ -42,6 +42,7 @@ giorno della festa: 4 ottobre
 ↳ preghiera: [custodisci il mio cuore](post.html?p=prayers/custodisci-il-mio-cuore.txt)
 ↳ preghiera: [che la mia vita sia un canto di lode](post.html?p=prayers/che-la-mia-vita-sia-un-canto-di-lode.txt)
 ↳ preghiera: [grazie, Dio](post.html?p=prayers/grazie-dio.txt)
+↳ preghiera: [ti loderò](post.html?p=prayers/ti-lodero.txt)
 ↳ thought capsule | [2026-06-09](https://ivana-rep.github.io/thoughtcapsules/post.html?p=2026/20260609.txt) | Enough
 ↳ thought capsule | [2026-05-12](https://ivana-rep.github.io/thoughtcapsules/post.html?p=2026/20260512.txt) | Subtraction
 ↳ thought capsule | [2026-03-31](https://ivana-rep.github.io/thoughtcapsules/post.html?p=2026/20260331.txt) | Form, not constraint

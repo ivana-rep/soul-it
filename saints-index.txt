@@ -37,7 +37,7 @@ capsules: —
 francesco-d-assisi | Francesco d'Assisi | feast: 4 ottobre
 themes: semplicità e minimalismo, povertà, natura/creato come riflesso di Dio, pace, sottrazione, eredità (Clarisse, tradizione del presepe, Cantico delle creature)
 verses: Numeri 6:24-26 (il signore ti benedica e ti protegga) | Luca 12:15 (la vita non è ciò che possiedi) | Giovanni 20:19 (pace a voi) | Giovanni 14:21-27 (la pace come dono) | Salmi 40:4 (un canto nuovo) | Matteo 5:1-48 (il discorso della montagna) | 2 Tessalonicesi 3:16 (il Signore sia con voi)
-prayers: custodisci il mio cuore | che la mia vita sia un canto di lode | grazie, Dio
+prayers: custodisci il mio cuore | che la mia vita sia un canto di lode | grazie, Dio | ti loderò
 capsules: 2026-06-09 Enough | 2026-05-12 Subtraction | 2026-03-31 Form, not constraint | 2026-03-22 Smaller patch | 2026-03-09 Gratitude as act | 2026-02-11 Complicating water
 
 giuseppe | Giuseppe | feast: 19 marzo (venerato anche il 1° maggio come San Giuseppe lavoratore)
