@@ -1,7 +1,7 @@
 Salmi 34:19 | il Signore viene in soccorso
 ↳ [torna all'indice](index.html)
 ↳ [torna all'archivio](archive.html)
-↳ [en](https://ivana-rep.github.io/soul/post.html?p=bible/psalms_34-19.txt) // it
+↳ [en](https://ivana-rep.github.io/soul/post.html?p=bible/psalms_34-18-19.txt) // it
 
 [19] il Signore è vicino a chi ha il cuore spezzato,
 !!Egli salva gli spiriti affranti!!.
@@ -23,5 +23,6 @@ sembra ingiusto e immeritato, vero? ma questo è la grazia. è per grazia, attra
 ~ ↳ versetti correlati >
 ~ [Salmi 14:3 | non c'è chi agisca bene](post.html?p=bible/psalms_14-3.txt)
 ~ [Romani 3:10 | non c'è nessun giusto](post.html?p=bible/romans_3-10.txt)
+~ [Romani 8:26 | lo Spirito intercede per noi](post.html?p=bible/romans_8-26.txt)
 
 > leggi [un altro](post.html?p=bible/psalms_37-7.txt)
