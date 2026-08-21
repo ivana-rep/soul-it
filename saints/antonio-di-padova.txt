@@ -42,5 +42,6 @@ giorno della festa: 13 giugno
 ↳ connessioni
 ↳ versetto: [Luca 12:15 — la vita non è ciò che possiedi](post.html?p=bible/luke_12-15.txt)
 ↳ versetto: [Romani 8:28 — tutto concorre al bene](post.html?p=bible/romans_8-28.txt)
+↳ versetto: [Proverbi 18:21 — morte e vita sono in potere della lingua](post.html?p=bible/proverbs_18-21.txt)
 ↳ thought capsule | [2026-07-15](https://ivana-rep.github.io/thoughtcapsules/post.html?p=2026/20260715.txt) | In the doing
 ↳ thought capsule | [2026-07-13](https://ivana-rep.github.io/thoughtcapsules/post.html?p=2026/20260713.txt) | From the inside
