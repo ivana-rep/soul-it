@@ -40,6 +40,7 @@ giorno della festa: 4 ottobre
 ↳ versetto: [Matteo 5:1-48 — il discorso della montagna](post.html?p=bible/matthew_5-1-48.txt)
 ↳ versetto: [Salmi 40:4 — un canto nuovo](post.html?p=bible/psalms_40-3.txt)
 ↳ versetto: [Salmi 113:3 — sia lodato il Signore](post.html?p=bible/psalms_113-3.txt)
+↳ versetto: [Salmi 28:7 — mia forza e mio scudo](post.html?p=bible/psalms_28-7.txt)
 ↳ preghiera: [custodisci il mio cuore](post.html?p=prayers/custodisci-il-mio-cuore.txt)
 ↳ preghiera: [che la mia vita sia un canto di lode](post.html?p=prayers/che-la-mia-vita-sia-un-canto-di-lode.txt)
 ↳ preghiera: [grazie, Dio](post.html?p=prayers/grazie-dio.txt)
