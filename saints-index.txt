@@ -17,7 +17,7 @@ not in them.
 
 agostino-d-ippona | Agostino d'Ippona | feast: 28 agosto
 themes: conversione, inquietudine/ricerca di Dio, peccato e grazia, provvidenza/tempo, Cristo che abita in noi, fede in cerca di comprensione
-verses: Isaia 60:22 (a suo tempo) | Ebrei 11:1-3 (prova di quelle che non si vedono) | Colossesi 1:27 (Cristo in voi, speranza della gloria) | Salmi 34:19 (il Signore viene in soccorso) | Salmi 14:3 (non c'è chi agisca bene) | Romani 5:8 (mentre eravamo ancora peccatori) | 1 Cronache 16:11 (ricercate sempre il Suo volto) | Romani 8:18-25 (un anticipo di gloria) | Galati 5:1-26 (aspettiamo per mezzo dello Spirito) | Qoelet 3:1-8 (tutto ha il suo momento) | Salmi 86:11 (mostrami la Tua via) | Romani 3:23 (privi della gloria di Dio) | Romani 6:23 (il dono di Dio) | Romani 5:1-3 (giustificati per la fede) | 1 Timoteo 2:5 (uno solo il mediatore) | Atti 4:12 (nessun altro nome) | Romani 13:14 (rivestiti di Cristo) | 2 Corinzi 12:9-10 (Ti basta la mia grazia) | Geremia 33:3 (cose grandi e impenetrabili)
+verses: Isaia 60:22 (a suo tempo) | Isaia 30:18 (beati coloro che sperano in Lui) | Ebrei 11:1-3 (prova di quelle che non si vedono) | Colossesi 1:27 (Cristo in voi, speranza della gloria) | Salmi 34:19 (il Signore viene in soccorso) | Salmi 14:3 (non c'è chi agisca bene) | Romani 5:8 (mentre eravamo ancora peccatori) | 1 Cronache 16:11 (ricercate sempre il Suo volto) | Romani 8:18-25 (un anticipo di gloria) | Galati 5:1-26 (aspettiamo per mezzo dello Spirito) | Qoelet 3:1-8 (tutto ha il suo momento) | Salmi 86:11 (mostrami la Tua via) | Romani 3:23 (privi della gloria di Dio) | Romani 6:23 (il dono di Dio) | Romani 5:1-3 (giustificati per la fede) | 1 Timoteo 2:5 (uno solo il mediatore) | Atti 4:12 (nessun altro nome) | Romani 13:14 (rivestiti di Cristo) | 2 Corinzi 12:9-10 (Ti basta la mia grazia) | Geremia 33:3 (cose grandi e impenetrabili)
 prayers: cercarti, trovarti | con me e dentro di me | forma qualcosa in me
 commonplace: non sto aspettando invano
 capsules: 2026-06-13 To inhabit | 2026-06-09 Enough | 2026-06-02 Discovery
@@ -45,3 +45,9 @@ themes: silenzio / assenza di parole registrate, traduzione e il peso di una sin
 verses: Romani 12:19 (non vendicatevi mai) | Marco 11:23-25 (chiedete, credete, perdonate) | Luca 6:36 (siate misericordiosi) | Romani 12:21 (vinci il male con il bene) | Matteo 5:44 (amate i vostri nemici)
 prayers: ama le persone come le ami Tu | scelgo di perdonare
 capsules: 2026-04-21 Recognition | 2026-04-18 The gap
+
+pio-da-pietrelcina | Pio da Pietrelcina | feast: 23 settembre
+themes: stigmate, sofferenza sopportata senza autodifesa, decenni sotto sospetto ecclesiastico, misticismo insieme a capacità di costruire istituzioni (Gruppi di Preghiera, Casa Sollievo della Sofferenza), radici familiari / pellegrinaggio a San Marco la Catola, eredità
+verses: 2 Corinzi 12:9-10 (Ti basta la mia grazia)
+prayers: soffrire volentieri per Te
+capsules: —
