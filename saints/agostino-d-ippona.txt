@@ -62,6 +62,7 @@ giorno della festa: 28 agosto
 ↳ preghiera: [forma qualcosa in me](post.html?p=prayers/forma-qualcosa-in-me.txt)
 ↳ preghiera: [non posso guarire me stessa](post.html?p=prayers/non-posso-guarire-me-stessa.txt)
 ↳ preghiera: [come si presenta l'amore fedele](post.html?p=prayers/come-si-presenta-lamore-fedele.txt)
+↳ commonplace: [il peccato non mantiene mai le sue promesse, ma io conosco qualcuno che le mantiene](post.html?p=commonplace/il-peccato-non-mantiene-mai-le-sue-promesse-ma-io-conosco-qualcuno-che-le-mantiene.txt)
 ↳ commonplace: [non sto aspettando invano](post.html?p=commonplace/non-sto-aspettando-invano.txt)
 ↳ commonplace: [perché Gesù ha dovuto morire affinché io potessi essere perdonato](post.html?p=commonplace/perche-gesu-ha-dovuto-morire-affinche-io-potessi-essere-perdonato.txt)
 ↳ commonplace: [se hai paura di finire all'inferno](commonplace/se-hai-paura-di-finire-allinferno.html)
