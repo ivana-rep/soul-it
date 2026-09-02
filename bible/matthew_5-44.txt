@@ -22,8 +22,8 @@ questo cambia tutto, cambia il tono di ogni conversazione, cambia il modo di gua
 ~ [Giuseppe](post.html?p=saints/giuseppe.txt)
 
 ~ ↳ versetti correlati >
-~ [Giovanni 13:34 | amatevi gli uni gli altri](post.html?p=bible/john_13-34.txt)
-~ [Romani 12:19 | non vendicatevi mai](post.html?p=bible/romans_12-19.txt)
-~ [Romani 12:21 | vinci il male con il bene](post.html?p=bible/romans_12-21.txt)
+~ [Giovanni 13:34](post.html?p=bible/john_13-34.txt) | amatevi gli uni gli altri
+~ [Romani 12:19](post.html?p=bible/romans_12-19.txt) | non vendicatevi mai
+~ [Romani 12:21](post.html?p=bible/romans_12-21.txt) | vinci il male con il bene
 
 > leggi [un altro](post.html?p=bible/exodus_3-14.txt)

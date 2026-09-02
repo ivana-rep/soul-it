@@ -10,6 +10,6 @@
 ~ ↳ vedi tutte le preghiere > [tutte le preghiere](all-prayers-archive.html)
 
 ~ ↳ versetti correlati >
-~ [Marco 11:23-25 | chiedete, credete, perdonate](post.html?p=bible/mark_11-23-25.txt)
+~ [Marco 11:23-25](post.html?p=bible/mark_11-23-25.txt) | chiedete, credete, perdonate
 
 > leggi [un altro](post.html?p=bible/revelation_21-4.txt)
