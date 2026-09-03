@@ -16,7 +16,7 @@ Galati 5:1-26 | aspettiamo per mezzo dello Spirito
 [11] quanto a me, fratelli, se io predico ancora la circoncisione, perché sono tuttora perseguitato? è dunque annullato lo scandalo della croce?
 [12] dovrebbero farsi mutilare coloro che vi turbano.
 [13] voi infatti, fratelli, siete stati chiamati a libertà. purché questa libertà non divenga un pretesto per vivere secondo la carne, ma mediante la carità siate a servizio gli uni degli altri.
-[14] tutta la legge infatti trova la sua pienezza in un solo precetto: amerai il prossimo tuo come te stesso.
+[14] tutta la legge infatti trova la sua pienezza in un solo precetto: !!amerai il prossimo tuo come te stesso.!!
 [15] ma se vi mordete e divorate a vicenda, guardate almeno di non distruggervi del tutto gli uni gli altri!
 [16] vi dico dunque: camminate secondo lo Spirito e non sarete portati a soddisfare i desideri della carne;
 [17] la carne infatti ha desideri contrari allo Spirito e lo Spirito ha desideri contrari alla carne; queste cose si oppongono a vicenda, sicché voi non fate quello che vorreste.
@@ -46,5 +46,7 @@ il processo non sarà perfetto, ma questa formazione non è separata dall'opera 
 ~ ↳ versetti correlati >
 ~ [Giovanni 16:13](post.html?p=bible/john_16-13.txt) | vi guiderà a tutta la verità
 ~ [Luca 17:32](post.html?p=bible/luke_17-32.txt) | non guardare indietro *
+~ [Giovanni 13:34](post.html?p=bible/john_13-34.txt) | amatevi gli uni gli altri *
+~ [Romani 13:14](post.html?p=bible/romans_13-14.txt) | rivestiti di Cristo *
 
 > leggi [un altro](post.html?p=bible/jude_1-17-25.txt)
