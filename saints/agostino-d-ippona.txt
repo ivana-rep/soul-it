@@ -57,6 +57,7 @@ giorno della festa: 28 agosto
 ↳ versetto: [Romani 13:14](post.html?p=bible/romans_13-14.txt) — rivestiti di Cristo *
 ↳ versetto: [2 Corinzi 12:9-10](post.html?p=bible/2-corinthians_12-9-10.txt) — ti basta la Mia grazia
 ↳ versetto: [Geremia 33:3](post.html?p=bible/jeremiah_33-3.txt) — cose grandi e impenetrabili *
+↳ versetto: [1 Giovanni 1:8](post.html?p=bible/1-john_1-8.txt) — ingannare noi stessi
 ↳ versetto: [Romani 7:14-25](post.html?p=bible/romans_7-14-25.txt) — la guerra interiore
 ↳ versetto: [Efesini 1:7](post.html?p=bible/ephesians_1-7.txt) — la ricchezza della Sua grazia
 ↳ preghiera: [cercarti, trovarti](post.html?p=prayers/cercarti-trovarti.txt)
@@ -69,6 +70,7 @@ giorno della festa: 28 agosto
 ↳ commonplace: [non sto aspettando invano](post.html?p=commonplace/non-sto-aspettando-invano.txt)
 ↳ commonplace: [perché Gesù ha dovuto morire affinché io potessi essere perdonato](post.html?p=commonplace/perche-gesu-ha-dovuto-morire-affinche-io-potessi-essere-perdonato.txt)
 ↳ commonplace: [se hai paura di finire all'inferno](commonplace/se-hai-paura-di-finire-allinferno.html)
+↳ commonplace: [trovare Gesù non ti aggiusta magicamente](post.html?p=commonplace/trovare-gesu-non-ti-aggiusta-magicamente.txt)
 ↳ thought capsule | [2026-06-13](https://ivana-rep.github.io/thoughtcapsules/post.html?p=2026/20260613.txt) | To inhabit
 ↳ thought capsule | [2026-06-09](https://ivana-rep.github.io/thoughtcapsules/post.html?p=2026/20260609.txt) | Enough
 ↳ thought capsule | [2026-06-02](https://ivana-rep.github.io/thoughtcapsules/post.html?p=2026/20260602.txt) | Discovery
