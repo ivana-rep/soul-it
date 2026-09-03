@@ -29,6 +29,6 @@ I secolo | nominato nel libro dell'Apocalisse, alla guida delle schiere celesti 
 * la Sua eredità è interamente funzionale piuttosto che biografica: patrono di soldati, poliziotti, soccorritori e moribondi; nome di Mont-Saint-Michel, Castel Sant'Angelo e innumerevoli parrocchie e cattedrali in tutta Europa; e, nell'angelologia cattolica, il punto di riferimento fisso rispetto al quale ogni angelo caduto viene definito per contrasto.
 
 ↳ connessioni
-↳ versetto: [Romani 12:19 — non vendicatevi mai](post.html?p=bible/romans_12-19.txt)
-↳ versetto: [Isaia 54:17 — nessun'arma avrà successo](post.html?p=bible/isaiah_54-17.txt)
-↳ versetto: [Proverbi 13:10 — l'insolenza provoca litigi](post.html?p=bible/proverbs_13-10.txt)
+↳ versetto: [Romani 12:19](post.html?p=bible/romans_12-19.txt) — non vendicatevi mai *
+↳ versetto: [Isaia 54:17](post.html?p=bible/isaiah_54-17.txt) — nessun'arma avrà successo *
+↳ versetto: [Proverbi 13:10](post.html?p=bible/proverbs_13-10.txt) — l'insolenza provoca litigi
