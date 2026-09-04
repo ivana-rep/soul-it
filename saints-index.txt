@@ -55,6 +55,6 @@ capsules: —
 pio-da-pietrelcina | Pio da Pietrelcina | feast: 23 settembre
 themes: stigmate, sofferenza sopportata senza autodifesa, decenni sotto sospetto ecclesiastico, misticismo insieme a capacità di costruire istituzioni (Gruppi di Preghiera, Casa Sollievo della Sofferenza), radici familiari / pellegrinaggio a San Marco la Catola, eredità, prega spera non ti preoccupare
 verses: 2 Corinzi 12:9-10 (Ti basta la mia grazia) | Giacomo 1:2-4 (la pazienza completi l'opera sua) | Salmi 73:21-26 (la roccia del mio cuore) | 1 Pietro 2:24 (guariti dalle sue piaghe) | Matteo 6:34 (a ciascun giorno basta la sua pena)
-prayers: soffrire volentieri per Te
+prayers: soffrire volentieri per Te | trasforma le mie preoccupazioni in adorazione
 commonplace: il motivo per cui sono ancora in piedi
 capsules: —
