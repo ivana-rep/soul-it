@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8">
+    <title>soul // it — i libri della bibbia</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <link rel="icon" type="image/png" href="/soul-it/soulfavicon.png" media="(prefers-color-scheme: light)">
+    <link rel="icon" type="image/png" href="/soul-it/soulfavicon_dark.png" media="(prefers-color-scheme: dark)">
+
+    <style>
+      :root {
+        --bg: #ffffff;
+        --fg: #111111;
+        --link: #005bff;
+
+        --mark-light: rgba(255, 241, 118, 0.9);
+        --mark-dark: rgba(255, 235, 59, 0.9);
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #000000;
+          --fg: #ffffff;
+          --link: #8fc9ed;
+        }
+      }
+
+      html, body { height: 100%; }
+      html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--fg);
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+        line-height: 1.35;
+        -webkit-font-smoothing: antialiased;
+        padding: 16px;
+      }
+
+      @media (hover: hover) and (pointer: fine) {
+        body {
+          font-size: 12.6px;
+        }
+      }
+
+      a, a:visited {
+        color: var(--link);
+        text-decoration: none;
+      }
+
+      a:hover { text-decoration: underline; }
+
+      pre {
+        margin: 0;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+      }
+
+      mark {
+        background: none;
+        color: inherit;
+        padding: 0 2px;
+        background-image: linear-gradient(
+          transparent 62%,
+          var(--mark-light) 62%
+        );
+      }
+
+      @media (prefers-color-scheme: dark) {
+        mark {
+          background: none;
+          padding: 0;
+          color: var(--fg);
+          text-decoration: underline;
+          text-decoration-thickness: 2px;
+          text-underline-offset: 0.15em;
+          text-decoration-color: var(--mark-dark);
+        }
+      }
+
+      .counter {
+        color: #767676;
+        font-size: 0.8em;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .counter {
+          color: #999;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+<pre>
+<mark>soul // it</mark> | <a href="index.html">indice</a> | <a href="archive.html">archivio</a>
+↳ <a href="https://ivana-rep.github.io/soul/books-of-the-bible.html">en</a> // it
+
+una guida rapida a ogni libro della bibbia, per sezione
+
+<span class="counter">antico testamento</span>
+<span id="legge"></span><span class="counter">// legge</span>
+<span id="genesi"></span>↳ <a href="post.html?p=what-is-it/genesis.txt">Genesi</a>
+<span id="esodo"></span>↳ <a href="post.html?p=what-is-it/exodus.txt">Esodo</a>
+<span id="numeri"></span>↳ <a href="post.html?p=what-is-it/numbers.txt">Numeri</a>
+<span id="deuteronomio"></span>↳ <a href="post.html?p=what-is-it/deuteronomy.txt">Deuteronomio</a>
+
+<span id="storia-at"></span><span class="counter">// storia</span>
+<span id="giosue"></span>↳ <a href="post.html?p=what-is-it/joshua.txt">Giosuè</a>
+<span id="1-cronache"></span>↳ <a href="post.html?p=what-is-it/1-chronicles.txt">1 Cronache</a>
+<span id="2-cronache"></span>↳ <a href="post.html?p=what-is-it/2-chronicles.txt">2 Cronache</a>
+
+<span id="poesia"></span><span class="counter">// poesia</span>
+<span id="salmi"></span>↳ <a href="post.html?p=what-is-it/psalms.txt">Salmi</a>
+<span id="proverbi"></span>↳ <a href="post.html?p=what-is-it/proverbs.txt">Proverbi</a>
+<span id="qoelet"></span>↳ <a href="post.html?p=what-is-it/ecclesiastes.txt">Qoelet</a>
+
+<span id="profeti-maggiori"></span><span class="counter">// profeti maggiori</span>
+<span id="isaia"></span>↳ <a href="post.html?p=what-is-it/isaiah.txt">Isaia</a>
+<span id="geremia"></span>↳ <a href="post.html?p=what-is-it/jeremiah.txt">Geremia</a>
+<span id="daniele"></span>↳ <a href="post.html?p=what-is-it/daniel.txt">Daniele</a>
+
+<span id="profeti-minori"></span><span class="counter">// profeti minori</span>
+<span id="gioele"></span>↳ <a href="post.html?p=what-is-it/joel.txt">Gioele</a>
+<span id="michea"></span>↳ <a href="post.html?p=what-is-it/micah.txt">Michea</a>
+
+<span class="counter">nuovo testamento</span>
+<span id="vangeli"></span><span class="counter">// vangeli</span>
+<span id="matteo"></span>↳ <a href="post.html?p=what-is-it/matthew.txt">Matteo</a>
+<span id="marco"></span>↳ <a href="post.html?p=what-is-it/mark.txt">Marco</a>
+<span id="luca"></span>↳ <a href="post.html?p=what-is-it/luke.txt">Luca</a>
+<span id="giovanni"></span>↳ <a href="post.html?p=what-is-it/john.txt">Giovanni</a>
+
+<span id="storia-nt"></span><span class="counter">// storia</span>
+<span id="atti"></span>↳ <a href="post.html?p=what-is-it/acts.txt">Atti</a>
+
+<span id="lettere-di-paolo"></span><span class="counter">// lettere di paolo</span>
+<span id="romani"></span>↳ <a href="post.html?p=what-is-it/romans.txt">Romani</a>
+<span id="1-corinzi"></span>↳ <a href="post.html?p=what-is-it/1-corinthians.txt">1 Corinzi</a>
+<span id="2-corinzi"></span>↳ <a href="post.html?p=what-is-it/2-corinthians.txt">2 Corinzi</a>
+<span id="galati"></span>↳ <a href="post.html?p=what-is-it/galatians.txt">Galati</a>
+<span id="efesini"></span>↳ <a href="post.html?p=what-is-it/ephesians.txt">Efesini</a>
+<span id="filippesi"></span>↳ <a href="post.html?p=what-is-it/philippians.txt">Filippesi</a>
+<span id="colossesi"></span>↳ <a href="post.html?p=what-is-it/colossians.txt">Colossesi</a>
+<span id="1-tessalonicesi"></span>↳ <a href="post.html?p=what-is-it/1-thessalonians.txt">1 Tessalonicesi</a>
+<span id="2-tessalonicesi"></span>↳ <a href="post.html?p=what-is-it/2-thessalonians.txt">2 Tessalonicesi</a>
+<span id="1-timoteo"></span>↳ <a href="post.html?p=what-is-it/1-timothy.txt">1 Timoteo</a>
+<span id="2-timoteo"></span>↳ <a href="post.html?p=what-is-it/2-timothy.txt">2 Timoteo</a>
+<span id="tito"></span>↳ <a href="post.html?p=what-is-it/titus.txt">Tito</a>
+
+<span id="lettere-generali"></span><span class="counter">// lettere generali</span>
+<span id="ebrei"></span>↳ <a href="post.html?p=what-is-it/hebrews.txt">Ebrei</a>
+<span id="giacomo"></span>↳ <a href="post.html?p=what-is-it/james.txt">Giacomo</a>
+<span id="1-pietro"></span>↳ <a href="post.html?p=what-is-it/1-peter.txt">1 Pietro</a>
+<span id="1-giovanni"></span>↳ <a href="post.html?p=what-is-it/1-john.txt">1 Giovanni</a>
+<span id="giuda"></span>↳ <a href="post.html?p=what-is-it/jude.txt">Giuda</a>
+
+<span id="profezia"></span><span class="counter">// profezia</span>
+<span id="apocalisse"></span>↳ <a href="post.html?p=what-is-it/revelation.txt">Apocalisse</a>
+
+<span class="counter">// <a href="index.html#search-input">cerca in tutti gli archivi per parola chiave</a></span>
+</pre>
+  </body>
+</html>
