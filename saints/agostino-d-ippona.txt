@@ -73,3 +73,4 @@ giorno della festa: 28 agosto
 ↳ commonplace: [se hai paura di finire all'inferno](commonplace/se-hai-paura-di-finire-allinferno.html)
 ↳ commonplace: [trovare Gesù non ti aggiusta magicamente](post.html?p=commonplace/trovare-gesu-non-ti-aggiusta-magicamente.txt)
 ↳ commonplace: [getta su di Lui il tuo torpore](post.html?p=commonplace/getta-su-di-lui-il-tuo-torpore.txt)
+↳ commonplace: [tre bugie sul cristianesimo](post.html?p=commonplace/tre-bugie-sul-cristianesimo.txt)
