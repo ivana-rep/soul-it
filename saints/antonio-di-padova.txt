@@ -45,5 +45,5 @@ giorno della festa: 13 giugno
 ↳ connessioni
 ↳ versetto: [Luca 12:15](post.html?p=bible/luke_12-15.txt) — la vita non è ciò che possiedi *
 ↳ versetto: [Romani 8:18-28](post.html?p=bible/romans_8-18-28.txt) — tutto concorre al bene *
-↳ versetto: [Proverbi 18:21](post.html?p=bible/proverbs_18-21.txt) — morte e vita sono in potere della lingua *
+↳ versetto: [Proverbi 18:21](post.html?p=bible/proverbs_18-21.txt) — parlare troppo può avere conseguenze negative *
 ↳ commonplace: [contento di quello che dispone Dio](post.html?p=commonplace/contento-di-quello-che-dispone-dio.txt)
