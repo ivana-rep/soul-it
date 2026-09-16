@@ -17,7 +17,7 @@ not in them.
 
 agostino-d-ippona | Agostino d'Ippona | feast: 28 agosto
 themes: conversione, inquietudine/ricerca di Dio, peccato e grazia, provvidenza/tempo, Cristo che abita in noi, fede in cerca di comprensione
-verses: Giovanni 13:4-15 (Gesù servì i Suoi discepoli lavando loro i piedi) | Salmi 51:3-14 (crea in me un cuore puro) | Isaia 60:22 (a suo tempo) | Isaia 30:18 (beati coloro che sperano in Lui) | Salmi 138:7-8 (completerà per me la Sua opera) | Ebrei 11:1-3 (prova di quelle che non si vedono) | Colossesi 1:27 (Cristo in voi, speranza della gloria) | Salmi 34:18-21 (il Signore viene in soccorso) | Salmi 14:3 (non c'è chi agisca bene) | Romani 5:6-11 (mentre eravamo ancora peccatori) | 1 Cronache 16:11 (ricercate sempre il Suo volto) | Romani 8:18-28 (tutto concorre al bene) | Galati 5:1-26 (aspettiamo per mezzo dello Spirito) | Efesini 1:7 (la ricchezza della Sua grazia) | Qoelet 3:1-8 (tutto ha il suo momento) | Salmi 86:11 (mostrami la Tua via) | Romani 3:23 (privi della gloria di Dio) | Romani 6:23 (il dono di Dio) | Romani 5:1-3 (giustificati per la fede) | 1 Timoteo 2:5 (uno solo il mediatore) | Atti 4:12 (nessun altro nome) | Romani 13:14 (rivestiti di Cristo) | 2 Corinzi 12:9-10 (Ti basta la mia grazia) | Geremia 33:3 (cose grandi e impenetrabili) | 1 Giovanni 1:8 (ingannare noi stessi) | 1 Giovanni 3:19-20 (Dio è più grande del nostro cuore)
+verses: Giovanni 13:4-15 (Gesù servì i Suoi discepoli lavando loro i piedi) | Salmi 51:3-14 (crea in me un cuore puro) | Isaia 60:22 (a suo tempo) | Isaia 30:18 (beati coloro che sperano in Lui) | Salmi 138:7-8 (completerà per me la Sua opera) | Ebrei 11:1-3 (prova di quelle che non si vedono) | Colossesi 1:27 (Cristo in voi, speranza della gloria) | Salmi 34:18-21 (il Signore viene in soccorso) | Salmi 14:3 (non c'è chi agisca bene) | Romani 5:6-11 (mentre eravamo ancora peccatori) | 1 Cronache 16:11 (ricercate sempre il Suo volto) | Romani 8:18-28 (tutto concorre al bene) | Galati 5:1-26 (aspettiamo per mezzo dello Spirito) | Efesini 1:7 (la ricchezza della Sua grazia) | Luca 18:27 (possibile a Dio) | Qoelet 3:1-8 (tutto ha il suo momento) | Salmi 86:11 (mostrami la Tua via) | Romani 3:23 (privi della gloria di Dio) | Romani 6:23 (il dono di Dio) | Romani 5:1-3 (giustificati per la fede) | 1 Timoteo 2:5 (uno solo il mediatore) | Atti 4:12 (nessun altro nome) | Romani 13:14 (rivestiti di Cristo) | 2 Corinzi 12:9-10 (Ti basta la mia grazia) | Geremia 33:3 (cose grandi e impenetrabili) | 1 Giovanni 1:8-9 (fedele nel perdonare) | 1 Giovanni 3:19-20 (Dio è più grande del nostro cuore)
 prayers: cercarti, trovarti | con me e dentro di me | forma qualcosa in me | non posso guarire me stessa | come si presenta l'amore fedele | senza maschere
 commonplace: il peccato non mantiene mai le sue promesse, ma io conosco qualcuno che le mantiene | non sto aspettando invano | perché Gesù ha dovuto morire affinché io potessi essere perdonato | se hai paura di finire all'inferno | solo il sangue di Cristo mi riconcilia con Dio | trovare Gesù non ti aggiusta magicamente | getta su di Lui il tuo torpore | tre bugie sul cristianesimo | fatti per contenerLo
 capsules: 2026-06-13 To inhabit | 2026-06-09 Enough | 2026-06-02 Discovery
@@ -30,8 +30,8 @@ capsules: 2026-07-15 In the doing | 2026-07-13 From the inside
 
 chiara-d-assisi | Chiara d'Assisi | feast: 11 agosto
 themes: povertà / Privilegio della povertà, immobilità come coraggio (assedio di San Damiano), mentorship per lettera (Agnese di Praga), contemplazione / immagine dello specchio, eredità
-verses: Luca 12:15 (la vita non è ciò che possiedi) | Giovanni 15:1-13 (rimanete in me) | Salmi 91:10-11 (Egli darà ordine ai Suoi angeli di custodirti) | Isaia 54:17 (nessun'arma avrà successo) | Filippesi 4:19 (Egli colmerà ogni vostro bisogno) | Salmi 118:11 (li ho sconfitti) | Salmi 46:11 (fermatevi e sappiate che io sono Dio)
-prayers: custodisci il mio cuore
+verses: Luca 12:15 (la vita non è ciò che possiedi) | Giovanni 15:1-27 (rimanete in me) | Salmi 91:10-11 (Egli darà ordine ai Suoi angeli di custodirti) | Isaia 54:17 (nessun'arma avrà successo) | Filippesi 4:19 (Egli colmerà ogni vostro bisogno) | Salmi 118:11 (li ho sconfitti) | Salmi 46:11 (fermatevi e sappiate che io sono Dio)
+prayers: custodisci il mio cuore | più vicino di quanto possa immaginare
 capsules: —
 
 francesco-d-assisi | Francesco d'Assisi | feast: 4 ottobre
@@ -59,3 +59,9 @@ verses: Salmi 42:6-7 (spera in Dio) | 2 Corinzi 12:9-10 (Ti basta la mia grazia)
 prayers: soffrire volentieri per Te | trasforma le mie preoccupazioni in adorazione | la preghiera più potente
 commonplace: il motivo per cui sono ancora in piedi
 capsules: —
+
+tommaso-d-aquino | Tommaso d'Aquino | feast: 28 gennaio (7 marzo calendario tradizionale)
+themes: fede e ragione, teologia negativa / conoscere Dio per sottrazione, Dio come essere stesso (ipsum esse subsistens), amore come atto della volontà, bellezza (integrità, armonia, chiarezza), Dottore della Chiesa, eredità (tomismo, curriculum universitario cattolico)
+verses: Esodo 3:14 (Io sono colui che sono)
+prayers: —
+commonplace: —

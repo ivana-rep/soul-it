@@ -1,0 +1,44 @@
+santo | Tommaso d'Aquino
+↳ [torna all'indice](index.html)
+↳ [torna all'archivio](archive.html)
+↳ [torna ai santi](saints.html)
+↳ [en](https://ivana-rep.github.io/soul/post.html?p=saints/thomas-aquinas.txt) // it
+
+↳ bio
+giorno della festa: 28 gennaio (7 marzo nel calendario tradizionale — il giorno della Sua morte)
+c. 1225 | nasce a Roccasecca, vicino Aquino, nel Regno di Sicilia
+c. 1244 | entra nell'ordine domenicano contro la ferma opposizione della Sua famiglia — tenuto prigioniero da loro per circa un anno nel tentativo di fargli cambiare idea
+1248 | studia con Alberto Magno nello studium domenicano di Colonia
+c. 1250 | ordinato sacerdote a Colonia
+1252 | inviato a Parigi per conseguire un dottorato avanzato in teologia
+1256-1259 | occupa la cattedra domenicana di teologia all'università di Parigi
+1259-1265 | scrive la Summa Contra Gentiles a Orvieto e Roma, un'opera che difende la fede attraverso la ragione per un pubblico non cristiano
+1265 | inizia la Summa Theologiae insegnando a Roma, la Sua grande sintesi di fede e ragione
+1268-1272 | torna a Parigi per un secondo periodo di insegnamento, difendendo il pensiero aristotelico da critici sia laici che religiosi
+dicembre 1273 | smette di scrivere la Summa Theologiae dopo un'esperienza mistica durante la Messa, dicendo "tutto ciò che ho scritto mi appare come paglia" — la lascia incompiuta
+7 marzo 1274 | muore nell'abbazia cistercense di Fossanova, vicino Terracina, in viaggio verso il secondo concilio di Lione
+1323 | canonizzato da papa Giovanni XXII
+1567 | dichiarato dottore della Chiesa da papa Pio V, con il titolo di Doctor Angelicus
+1879 | l'enciclica Aeterni Patris di papa Leone XIII rende il Suo pensiero il modello della filosofia e della teologia cattolica
+1880 | dichiarato patrono di tutte le scuole, i collegi e le università cattoliche
+
+↳ citazioni
+\ non possiamo sapere cosa Dio sia, ma solo cosa non sia.
+~ — Summa Theologiae, I, q.3, prologo
+
+\ amare è volere il bene dell'altro.
+~ — Summa Theologiae
+
+\ la bellezza richiede tre cose: integrità, armonia, chiarezza.
+~ — Summa Theologiae, I, q.39, a.8
+
+↳ cosa risuona con me
+* come [Agostino](post.html?p=saints/agostino-d-ippona.txt), Tommaso ha passato la vita a cercare di dire qualcosa di vero su un Dio che eccede ogni cosa vera che si può dire di Lui — otto secoli dopo, ancora la stessa domanda, con una risposta costruita in modo diverso.
+* la mossa d'apertura del trattato su Dio nella Summa è un rifiuto: "non possiamo sapere cosa Dio sia, ma solo cosa non sia." Tommaso costruisce un'intera dottrina di Dio per sottrazione — non un corpo, non composto di parti, non limitato dal luogo o dal tempo — finché ciò che resta è una forma piuttosto che una descrizione. è lo stesso istinto che Agostino nomina direttamente, "se lo comprendi, non è Dio." !!la certezza su Dio è di solito il segno che hai smesso di descrivere Dio e hai iniziato a descrivere un idolo abbastanza piccolo da starti in testa!!.
+* quando Mosè chiede il nome di Dio, la risposta è "Io sono colui che sono" — non un nome nel senso comune, un nome che afferma semplicemente l'esistenza stessa. Tommaso costruisce su quell'unica frase l'intera Sua dottrina di Dio: Dio non è un essere tra gli esseri, in competizione per lo spazio con tutto ciò che esiste, Dio è l'atto stesso di esistere, la ragione per cui c'è qualcosa da contare. questo riformula la domanda che ancora oggi ci si pone ("Dio esiste?") come un errore di categoria — l'esistenza non è una proprietà che Dio possiede, è ciò che la parola Dio significa.
+* "amare è volere il bene dell'altro" fa crollare una distinzione che il mondo moderno lavora duramente per mantenere sfumata: l'amore come sentimento che ti capita, oppure l'amore come atto che scegli di compiere per qualcun altro. la definizione di Tommaso non lascia spazio a un amore che resti comodo — la fioritura dell'altra persona, non il proprio stato emotivo, è la misura. è lo stesso riorientamento dietro il comandamento di amare il prossimo come se stessi: nominato un atto della volontà, non un umore che si ha o non si ha.
+* la Sua definizione di bellezza — integrità, armonia, chiarezza — sembra un manuale di estetica finché non ci si accorge che è in realtà una descrizione di coerenza: una cosa è bella quando non le manca nulla, quando nulla al suo interno la contraddice, e quando ciò che è si mostra con chiarezza. gli stessi tre criteri funzionano su una vita, un brano musicale, un argomento, non solo su un dipinto.
+* la Sua eredità più ampia: l'Aeterni Patris di Leone XIII ha reso il Suo pensiero il curriculum standard della filosofia e teologia cattolica, e lo è ancora — ogni seminario e università cattolica che insegna filosofia della religione oggi lavora, in qualche misura, ancora dentro la sintesi di fede e ragione che Tommaso ha costruito mettendo Aristotele e la teologia cristiana nella stessa stanza e rifiutandosi di far uscire l'uno o l'altra.
+
+↳ connessioni
+↳ verse: [Esodo 3:14](post.html?p=bible/exodus_3-14.txt) — Io sono colui che sono
