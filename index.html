@@ -132,6 +132,12 @@ diario devozionale digitale
 ↳ ricerca per significato: <input type="text" id="semantic-input" placeholder="es. gesù che insegna a pregare" autocomplete="off" spellcheck="false"> <span class="counter" id="semantic-status"></span> <span class="counter" id="semantic-clear" style="display:none">// <a href="#" id="semantic-clear-link">cancella risultati</a></span>
 <span id="semantic-results"></span>
 
+<span class="counter">↳ contenuti</span>
+<span class="counter">// versetti <span id="count-verses">…</span></span>
+<span class="counter">// preghiere <span id="count-prayers">…</span></span>
+<span class="counter">// citazioni <span id="count-commonplace">…</span></span>
+<span class="counter">// santi <span id="count-saints">…</span></span>
+
 ↳ contatti: <a href="https://t.me/ivana_tg">telegram @ivana_tg</a>
 ↳ altri progetti: <a href="https://ivana-rep.github.io/thoughtcapsules/">thought capsules</a>
 </pre>
@@ -477,6 +483,29 @@ self.onmessage = async (e) => {
     semClearWrap.style.display = "none";
     semInput.focus();
   });
+})();
+
+(function () {
+  function countLinks(html, prefix) {
+    const matches = html.match(new RegExp('post\\.html\\?p=' + prefix + '/[^"]*\\.txt', 'g'));
+    return matches ? matches.length : 0;
+  }
+
+  function loadCount(page, prefix, elId) {
+    fetch(page)
+      .then(r => r.text())
+      .then(html => {
+        document.getElementById(elId).textContent = "[" + countLinks(html, prefix) + "]";
+      })
+      .catch(() => {
+        document.getElementById(elId).textContent = "";
+      });
+  }
+
+  loadCount("all-verses-archive.html", "bible", "count-verses");
+  loadCount("all-prayers-archive.html", "prayers", "count-prayers");
+  loadCount("all-commonplace-archive.html", "commonplace", "count-commonplace");
+  loadCount("saints.html", "saints", "count-saints");
 })();
 </script>
 
