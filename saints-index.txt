@@ -42,7 +42,7 @@ capsules: 2026-06-09 Enough | 2026-05-12 Subtraction | 2026-03-31 Form, not cons
 
 giuseppe | Giuseppe | feast: 19 marzo (venerato anche il 1° maggio come San Giuseppe lavoratore)
 themes: silenzio / assenza di parole registrate, traduzione e il peso di una singola parola, misericordia scelta al posto della legge, dignità silenziosa del lavoro, eredità
-verses: Proverbi 19:11 (passare sopra alle offese) | Romani 12:19-21 (non vendicatevi mai, vinci il male con il bene) | Marco 11:23-25 (chiedete, credete, perdonate) | Luca 6:36 (siate misericordiosi) | Matteo 5:1-48 (il discorso della montagna) | Luca 6:28 (pregate per chi vi maltratta) | Matteo 18:15 (va' da lui in privato)
+verses: Proverbi 19:11 (passare sopra alle offese) | Romani 12:19-21 (non vendicatevi mai, vinci il male con il bene) | Marco 11:23-25 (chiedete, credete, perdonate) | Luca 6:36 (siate misericordiosi) | Matteo 5:1-48 (il discorso della montagna) | Luca 6:28 (pregate per chi vi maltratta) | Matteo 18:15 (va' da lui in privato) | Matteo 9:9-13 (i malati hanno bisogno del medico)
 prayers: ama le persone come le ami Tu | scelgo di perdonare
 commonplace: il perdono non è riconciliazione
 capsules: 2026-04-21 Recognition | 2026-04-18 The gap
