@@ -29,7 +29,8 @@ nel nome di Gesù, amen.
 
 ~ ↳ preghiere correlate >
 ~ [preghiera della sera](post.html?p=prayers/preghiera-della-sera.txt) *
-~ [preghiera di mezzogiorno](post.html?p=prayers/preghiera-di-mezzogiorno.txt) *
+~ [preghiera di mezzogiorno (giorni di riposo)](post.html?p=prayers/preghiera-di-mezzogiorno-giorni-di-riposo.txt) *
+~ [preghiera di mezzogiorno (giorni lavorativi)](post.html?p=prayers/preghiera-di-mezzogiorno-giorni-lavorativi.txt) *
 
 ~ ↳ versetti correlati >
 ~ [Matteo 5:1-7:29](post.html?p=bible/matthew_5-1-7-29.txt) | il discorso della montagna *
