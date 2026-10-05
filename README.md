@@ -25,7 +25,8 @@ saints.html                   list of every saint, linking to their individual p
 saints-index.txt              internal-only lookup index of saint connections
 guides/                       long-form guides (e.g. how to read the bible)
 path-for-the-skeptical.html   a six-question path through scripture
-soulfavicon.png / soulfavicon_dark.png
+soulfavicon.png / soulfavicon_dark.png   favicon light/dark (S, editorial style)
+apple-touch-icon.png          iOS Home icon (180×180)
 
 bible/          {book}_{chapter}-{verse}.txt   e.g. isaiah_60-22.txt — English slug shared with soul, Italian content
 prayers/        {title-slug}.txt               Italian slug, e.g. sei-tutto-cio-di-cui-ho-bisogno.txt
