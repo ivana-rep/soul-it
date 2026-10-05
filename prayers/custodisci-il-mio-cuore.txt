@@ -15,6 +15,9 @@ amen.
 ~ [Chiara d'Assisi](post.html?p=saints/chiara-d-assisi.txt)
 ~ [Francesco d'Assisi](post.html?p=saints/francesco-d-assisi.txt)
 
+~ ↳ preghiere correlate >
+~ [fare spazio a ciò che hai preparato](post.html?p=prayers/fare-spazio-a-cio-che-hai-preparato.txt)
+
 ~ ↳ versetti correlati >
 ~ [Matteo 5:1-7:29](post.html?p=bible/matthew_5-1-7-29.txt) | il discorso della montagna *
 ~ [Matteo 6:1-18](post.html?p=bible/matthew_6-1-18.txt) | il padre nostro *
