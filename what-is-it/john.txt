@@ -3,4 +3,13 @@ Giovanni | cos'è
 ↳ [torna all'archivio](archive.html)
 ↳ [en](https://ivana-rep.github.io/soul/post.html?p=what-is-it/john.txt) // it
 
-il quarto Vangelo, tradizionalmente scritto dall'apostolo Giovanni, uno dei tre discepoli più vicini a Gesù. diverso per tono dagli altri tre. meno parabole, più parole di Gesù stesso su chi Egli sia. scritto, nelle parole dell'autore, perché i lettori potessero credere.
+il quarto vangelo, attribuito per tradizione all'apostolo Giovanni, uno dei tre discepoli più vicini a Gesù, che nel libro non dice mai il proprio nome, ma vi compare come "il discepolo che Gesù amava". molti studiosi lo datano alla fine del I secolo, e un'antica tradizione ne colloca la stesura a Efeso. dice apertamente perché è stato scritto: perché chi legge creda che Gesù è il Cristo, il Figlio di Dio, e perché, credendo, abbia la vita nel Suo nome.
+
+si apre con un prologo diverso da ogni altro vangelo — "in principio era il Verbo" — nel capitolo 1. i capitoli 1–12 sono spesso chiamati il libro dei segni: sette miracoli, dall'acqua cambiata in vino a Cana alla risurrezione di Lazzaro, ognuno dei quali rimanda oltre sé stesso a chi è Gesù, insieme ai Suoi detti "Io sono" — il pane della vita, la luce del mondo, il buon pastore, la risurrezione e la vita. i capitoli 13–20 sono il libro della gloria: l'ultima cena, con la lavanda dei piedi e il lungo congedo di Gesù dai Suoi discepoli, poi la croce e la risurrezione. il capitolo 21 è un epilogo sul mare di Galilea.
+
+meno parabole, meno miracoli, dialoghi più lunghi: è il più meditativo dei quattro, scritto perché il lettore non sappia soltanto cosa ha fatto Gesù, ma chi è.
+
+~ ↳ se di questo libro leggi poco, leggi questo >
+~ [Giovanni 3:16-21](post.html?p=bible/john_3-16-21.txt) | Dio ha tanto amato il mondo
+~ [Giovanni 1:1-5](post.html?p=bible/john_1-1-5.txt) | la luce splende nelle tenebre
+~ [Giovanni 14:6](post.html?p=bible/john_14-6.txt) | io sono la via

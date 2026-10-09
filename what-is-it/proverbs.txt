@@ -3,4 +3,13 @@ Proverbi | cos'è
 ↳ [torna all'archivio](archive.html)
 ↳ [en](https://ivana-rep.github.io/soul/post.html?p=what-is-it/proverbs.txt) // it
 
-brevi detti memorabili su come vivere bene, per lo più attribuiti a Salomone, figlio di Davide e re d'Israele rinomato per la sua saggezza. saggezza pratica per le scelte di ogni giorno, non teologia astratta. fa parte dei libri sapienziali dell'Antico Testamento.
+una raccolta di detti brevi e facili da ricordare su come vivere bene, attribuiti per lo più a Salomone — figlio di Davide e re d'Israele, celebre per la sua sapienza. è cresciuta nel tempo: alcune sezioni sono attribuite a Salomone, altre ai "saggi", una agli uomini del re Ezechia che trascrissero altri suoi proverbi, e le ultime a due figure altrimenti sconosciute, Agur e Lemuèl. il suo scopo è pratico, non astratto: come parlare, lavorare, gestire il denaro, scegliere gli amici, vivere in famiglia.
+
+i capitoli 1–9 sono poemi più lunghi, un genitore che istruisce un figlio, con la sapienza raffigurata come una donna che chiama per le strade, contrapposta alla stoltezza. i capitoli 10–22 sono i classici proverbi di un solo verso attribuiti a Salomone. i capitoli 22–24 raccolgono i "detti dei saggi", una sezione molto simile a un più antico insegnamento egiziano. i capitoli 25–29 sono altri proverbi di Salomone, raccolti sotto Ezechia. i capitoli 30–31 si chiudono con Agur, Lemuèl e un poema alfabetico sulla donna forte.
+
+il suo fondamento è dichiarato all'inizio: il timore del Signore è principio della conoscenza. nel capitolo 8 la sapienza parla come presente accanto a Dio nella creazione, un'immagine che il Nuovo Testamento riprende quando chiama Cristo sapienza di Dio.
+
+~ ↳ se di questo libro leggi poco, leggi questo >
+~ [Proverbi 3:1-11](post.html?p=bible/proverbs_3-1-11.txt) | confida in Lui, non in te stesso *
+~ [Proverbi 9:10](post.html?p=bible/proverbs_9-10.txt) | il principio della sapienza
+~ [Proverbi 4:20-23](post.html?p=bible/proverbs_4-20-23.txt) | custodisci il cuore *

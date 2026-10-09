@@ -3,4 +3,13 @@ Luca | cos'è
 ↳ [torna all'archivio](archive.html)
 ↳ [en](https://ivana-rep.github.io/soul/post.html?p=what-is-it/luke.txt) // it
 
-un Vangelo scritto da Luca, un medico e compagno di Paolo che non fu testimone oculare ma raccolse con cura le testimonianze di chi lo era, indirizzato a un lettore pagano. un resoconto accurato e ordinato della vita di Gesù, con particolare attenzione ai poveri, agli emarginati, e ai dimenticati.
+il terzo vangelo, attribuito per tradizione a Luca — medico e compagno di viaggio di Paolo, non testimone oculare, che dice di aver fatto ricerche accurate su ogni cosa fin dall'inizio e di averle scritte con ordine. è indirizzato a un certo Teofilo, e scritto soprattutto per lettori pagani; molti studiosi lo datano attorno agli anni 80–90. è la prima metà di un'opera in due volumi: gli Atti ne sono il seguito.
+
+è costruito come un viaggio. i capitoli 1–2 sono le nascite di Giovanni Battista e di Gesù, con il cantico di Maria e i pastori. i capitoli 3–9 sono la preparazione e il ministero in Galilea, aperto nella sinagoga di Nazaret con il lieto annuncio ai poveri e la liberazione ai prigionieri. i capitoli 9–19 sono il lungo cammino verso Gerusalemme, che contiene gran parte del materiale presente solo in Luca: il buon samaritano, la moneta perduta, il figliol prodigo, Zaccheo. i capitoli 19–24 sono Gerusalemme: la passione, la risurrezione, e i due discepoli in cammino verso Emmaus.
+
+è il vangelo della misericordia per chi sta ai margini — i poveri, le donne, i peccatori, gli stranieri — e della preghiera e dello Spirito Santo. la sua storia non finisce con l'ascensione: prosegue direttamente negli Atti, da Gerusalemme fino ai confini della terra.
+
+~ ↳ se di questo libro leggi poco, leggi questo >
+~ [Luca 15:11-32](post.html?p=bible/luke_15-11-32.txt) | perduto e ritrovato
+~ [Luca 10:25-37](post.html?p=bible/luke_10-25-37.txt) | va' e anche tu fa' così
+~ [Luca 11:1-4](post.html?p=bible/matthew_6-1-18.txt) | il padre nostro *

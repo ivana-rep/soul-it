@@ -3,5 +3,11 @@
 ↳ [torna all'archivio](archive.html)
 ↳ [en](https://ivana-rep.github.io/soul/post.html?p=what-is-it/1-samuel.txt) // it
 
-il nono libro della bibbia, parte di un racconto storico più ampio insieme a 2 Samuele e 1-2 Re, che copre il passaggio di Israele dal periodo dei giudici alla monarchia. Antico Testamento, narrazione storica.
-segue Samuele — l'ultimo dei giudici di Israele e un profeta — mentre unge Saul come primo re di Israele, e poi unge Davide, un giovane pastore, come suo successore. temi principali: la sovranità di Dio sulla scelta di chi guida, il prezzo della richiesta di Israele di avere un re come le altre nazioni, e il contrasto tra l'aspetto esteriore e il cuore che Dio guarda davvero.
+la prima metà di quello che in origine era un unico libro con 2 Samuele, diviso in due solo nella traduzione greca. l'autore è sconosciuto: la tradizione ebraica attribuiva a Samuele i primi capitoli, e ai profeti Natan e Gad il resto. racconta come Israele passò da una federazione di tribù guidate dai giudici a un regno, attorno all'XI secolo a.C., sotto la pressione dei Filistei.
+
+è costruito attorno a tre figure. i capitoli 1–7 appartengono a Samuele: nato in risposta alla preghiera di sua madre Anna e chiamato da Dio da ragazzo, di notte, nel santuario di Silo, diventa profeta e ultimo dei giudici, mentre l'arca viene catturata dai Filistei e poi restituita. i capitoli 8–15 appartengono a Saul: il popolo chiede un re come le altre nazioni, Samuele lo avverte e unge Saul, che presto disobbedisce e viene rigettato. i capitoli 16–31 appartengono a Davide: il pastorello scelto perché il Signore guarda il cuore, Golia, l'amicizia con Gionata, figlio di Saul, gli anni in fuga da un Saul geloso, che per due volte Davide si rifiuta di uccidere, e la morte di Saul sul monte Gelboe.
+
+è l'inizio della discendenza di Davide, dalla quale si attendeva il Messia. il cantico di Anna, su un Dio che innalza gli umili, risuona più di mille anni dopo nel Magnificat di Maria.
+
+~ ↳ se di questo libro leggi poco, leggi questo >
+~ [1 Samuele 16:7](post.html?p=bible/1-samuel_16-7.txt) | il Signore guarda il cuore
