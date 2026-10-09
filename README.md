@@ -1,6 +1,6 @@
 # soul // it
 
-The Italian sibling of [`soul`](https://github.com/ivana-rep/soul) — a personal, static devotional site: bible verses, prayers, saint biographies, and short "commonplace" quotes, each with a short reflection. Same structure and build as `soul`, translated content, CEI 2008 as the bible source instead of NLT. Plain HTML + `.txt` content files, no build step, no framework, no database. Live at:
+The Italian sibling of [`soul`](https://github.com/ivana-rep/soul) — a personal, static devotional site: bible verses, prayers, saint biographies, and short "commonplace" quotes, some with a short personal reflection. Same structure and build as `soul`, translated content, CEI 2008 as the bible source instead of NLT. Plain HTML + `.txt` content files, no build step, no framework, no database. Live at:
 
 **https://ivana-rep.github.io/soul-it/**
 
@@ -23,6 +23,8 @@ all-verses-archive.html       flat list of every verse, newest first (drives the
 all-commonplace-archive.html  flat list of every commonplace entry, newest first (drives its own loop)
 saints.html                   list of every saint, linking to their individual page
 saints-index.txt              internal-only lookup index of saint connections
+topics.html                   topic index — generated at load time from archive.html's topic sections
+books-of-the-bible.html       every book with an explainer, grouped in ten canonical sections
 guides/                       long-form guides (e.g. how to read the bible)
 path-for-the-skeptical.html   a six-question path through scripture
 soulfavicon.png / soulfavicon_dark.png   favicon light/dark (S, editorial style)
@@ -49,11 +51,11 @@ Same closed-loop mechanics as `soul` — three independent rings (verses, prayer
 
 ## Archive & topic system
 
-Same as `soul`: `archive.html` is the single hub for all verses and prayers, with `↳ autore / libro` and `↳ argomento` indexes. Topics are chosen independently per site — an Italian topic doesn't need to match its English counterpart's slug, only the underlying grouping.
+Same as `soul`: `archive.html` is the single hub for all verses and prayers, with a `↳ autore / libro` index and an `↳ argomento` link to `topics.html`. Topics are chosen independently per site — an Italian topic doesn't need to match its English counterpart's slug, only the underlying grouping.
 
 ## Content creation
 
-New content is added the same way as on `soul`: whenever a verse, prayer, saint, or commonplace entry is added to `soul` via its Claude Code skill, that skill also drafts and writes the Italian counterpart here in the same run — translation, archive updates, saint connections, and the loop chain, then a commit+push to this repo.
+New content is added the same way as on `soul`: whenever a verse, prayer, saint, or commonplace entry is added to `soul` via its Claude Code skill, that skill also drafts and writes the Italian counterpart here in the same run — translation, archive updates, saint connections, and the loop chain. Changes are committed and pushed together with `soul`, at the end of a working session. Book explainers (`what-is-it/`) follow the same three-paragraph format as `soul`, with a `se di questo libro leggi poco, leggi questo` footer.
 
 ## Style rules (content)
 
