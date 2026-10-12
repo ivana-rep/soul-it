@@ -24,19 +24,19 @@ capsules: 2026-06-13 To inhabit | 2026-06-09 Enough | 2026-06-02 Discovery
 
 antonio-di-padova | Antonio di Padova | feast: 13 giugno
 themes: predicazione, dono nascosto che emerge di lato/non pianificato, mentorship e riconoscimento (Francesco), Dottore della Chiesa, reliquia incorrotta / eredità
-verses: Luca 12:15 (la vita non è ciò che possiedi) | Romani 8:18-28 (tutto concorre al bene) | Proverbi 18:21 (morte e vita sono in potere della lingua)
+verses: Luca 12:13-21 (il ricco stolto) | Romani 8:18-28 (tutto concorre al bene) | Proverbi 18:21 (morte e vita sono in potere della lingua)
 prayers: —
 capsules: 2026-07-15 In the doing | 2026-07-13 From the inside
 
 chiara-d-assisi | Chiara d'Assisi | feast: 11 agosto
 themes: povertà / Privilegio della povertà, immobilità come coraggio (assedio di San Damiano), mentorship per lettera (Agnese di Praga), contemplazione / immagine dello specchio, eredità
-verses: Luca 12:15 (la vita non è ciò che possiedi) | Giovanni 15:1-27 (rimanete in me) | Salmi 91:10-11 (Egli darà ordine ai Suoi angeli di custodirti) | Isaia 54:17 (nessun'arma avrà successo) | Filippesi 4:19 (Egli colmerà ogni vostro bisogno) | Salmi 118:11 (li ho sconfitti) | Salmi 46:11 (fermatevi e sappiate che io sono Dio)
+verses: Luca 12:13-21 (il ricco stolto) | Giovanni 15:1-27 (rimanete in me) | Salmi 91:10-11 (Egli darà ordine ai Suoi angeli di custodirti) | Isaia 54:17 (nessun'arma avrà successo) | Filippesi 4:19 (Egli colmerà ogni vostro bisogno) | Salmi 118:11 (li ho sconfitti) | Salmi 46:11 (fermatevi e sappiate che io sono Dio)
 prayers: custodisci il mio cuore | più vicino di quanto possa immaginare
 capsules: —
 
 francesco-d-assisi | Francesco d'Assisi | feast: 4 ottobre
 themes: semplicità e minimalismo, povertà, natura/creato come riflesso di Dio, pace, sottrazione, eredità (Clarisse, tradizione del presepe, Cantico delle creature)
-verses: Matteo 19:16-30 (tutto è possibile presso Dio) | Numeri 6:24-26 (il signore ti benedica e ti protegga) | Luca 12:15 (la vita non è ciò che possiedi) | Giovanni 20:19 (pace a voi) | Giovanni 14:21-27 (la pace come dono) | Salmi 40:4 (un canto nuovo) | Matteo 5:1-7:29 (il discorso della montagna) | 2 Tessalonicesi 3:16 (il Signore sia con voi) | Salmi 113:3 (sia lodato il Signore) | Salmi 28:7 (mia forza e mio scudo) | Filippesi 3:7-11 (conoscere Cristo) | Genesi 2:9 (doni dal suolo)
+verses: Matteo 19:16-30 (tutto è possibile presso Dio) | Numeri 6:24-26 (il signore ti benedica e ti protegga) | Luca 12:13-21 (il ricco stolto) | Giovanni 20:19 (pace a voi) | Giovanni 14:21-27 (la pace come dono) | Salmi 40:4 (un canto nuovo) | Matteo 5:1-7:29 (il discorso della montagna) | 2 Tessalonicesi 3:16 (il Signore sia con voi) | Salmi 113:3 (sia lodato il Signore) | Salmi 28:7 (mia forza e mio scudo) | Filippesi 3:7-11 (conoscere Cristo) | Genesi 2:9 (doni dal suolo)
 prayers: custodisci il mio cuore | che la mia vita sia un canto di lode | grazie, Dio | ti loderò
 capsules: 2026-06-09 Enough | 2026-05-12 Subtraction | 2026-03-31 Form, not constraint | 2026-03-22 Smaller patch | 2026-03-09 Gratitude as act | 2026-02-11 Complicating water
 
@@ -49,7 +49,7 @@ capsules: 2026-04-21 Recognition | 2026-04-18 The gap
 
 michele-arcangelo | Michele Arcangelo | feast: 29 settembre
 themes: guerriero/difensore, soglie e attraversamenti (vita/morte, terra/mare), compostezza e rifiuto di maledire, confutazione dell'orgoglio ("chi è come Dio?"), eredità funzionale/patronale (soldati, polizia, moribondi)
-verses: Daniele 12:1 (l'arcangelo che vigila) | Giuda 1:9 (ti condanni il Signore) | Apocalisse 12:7 (guerra nel cielo) | Romani 12:19-21 (non vendicatevi mai, vinci il male con il bene) | Isaia 54:17 (nessun'arma avrà successo) | Proverbi 13:10 (l'insolenza provoca litigi)
+verses: Daniele 12:1 (l'arcangelo che vigila) | Giuda 1:9 (ti condanni il Signore) | Apocalisse 12:7 (guerra nel cielo) | Romani 12:19-21 (non vendicatevi mai, vinci il male con il bene) | Isaia 54:17 (nessun'arma avrà successo) | Proverbi 13:10 (l'insolenza provoca litigi) | Giovanni 8:44 (padre della menzogna)
 prayers: —
 capsules: —
 
