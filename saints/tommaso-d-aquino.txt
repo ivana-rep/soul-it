@@ -42,3 +42,4 @@ dicembre 1273 | smette di scrivere la Summa Theologiae dopo un'esperienza mistic
 
 ↳ connessioni
 ↳ verse: [Esodo 3:14](post.html?p=bible/exodus_3-14.txt) — Io sono colui che sono
+↳ commonplace: [fede e medicina](post.html?p=commonplace/fede-e-medicina.txt)

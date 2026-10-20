@@ -54,7 +54,7 @@ metà anni '60 | papa Paolo VI respinge ogni accusa residua, chiudendo cinque de
 
 ↳ connessioni
 ↳ versetto: [Salmi 42:6-7](post.html?p=bible/psalms_42-5-6.txt) — spera in Dio
-↳ versetto: [2 Corinzi 12:9-10](post.html?p=bible/2-corinthians_12-9-10.txt) — la forza si manifesta nella debolezza
+↳ versetto: [2 Corinzi 12:7-10](post.html?p=bible/2-corinthians_12-7-10.txt) — la forza si manifesta nella debolezza *
 ↳ versetto: [Giacomo 1:2-5](post.html?p=bible/james_1-2-5.txt) — la pazienza completi l'opera sua
 ↳ versetto: [Salmi 73:21-26](post.html?p=bible/psalms_73-21-26.txt) — la roccia del mio cuore *
 ↳ versetto: [1 Pietro 2:24](post.html?p=bible/1-peter_2-24.txt) — i cristiani devono essere caratterizzati dalla rettitudine *
@@ -70,3 +70,4 @@ metà anni '60 | papa Paolo VI respinge ogni accusa residua, chiudendo cinque de
 ↳ preghiera: [la preghiera più potente](post.html?p=prayers/la-preghiera-piu-potente.txt)
 ↳ preghiera: [grazie perché porti i miei pesi](post.html?p=prayers/grazie-perche-porti-i-miei-pesi.txt)
 ↳ commonplace: [il motivo per cui sono ancora in piedi](post.html?p=commonplace/il-motivo-per-cui-sono-ancora-in-piedi.txt)
+↳ commonplace: [fede e medicina](post.html?p=commonplace/fede-e-medicina.txt)
