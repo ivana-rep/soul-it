@@ -92,6 +92,24 @@
         }
       }
 
+      .cols {
+        column-count: 4;
+        column-gap: 4ch;
+        max-width: 110ch;
+      }
+
+      @media (max-width: 640px) {
+        .cols { column-count: 2; column-gap: 2ch; font-size: 0.9em; }
+      }
+
+      .cols .row {
+        display: flex;
+        justify-content: space-between;
+        gap: 1ch;
+        break-inside: avoid;
+        white-space: nowrap;
+      }
+
       .top-link, .top-link:visited, .top-link:hover, .top-link:active {
         color: #767676;
         font-size: 0.8em;
@@ -113,8 +131,10 @@
 <span class="counter">↳ versione bibbia: CEI 2008</span>
 <span class="counter">↳ salvo diversa indicazione, le preghiere provengono dalla <a href="https://www.youversion.com/bible-app">bible app</a> oppure sono personali e non hanno un autore specifico</span>
 
-<span id="by-author"></span>↳ autore / libro
-[Genesi](#genesi) // [Esodo](#esodo) // [Numeri](#numeri) // [Deuteronomio](#deuteronomio) // [Giosuè](#giosue) // [1 Samuele](#1-samuele) // [1 Re](#1-re) // [1 Cronache](#1-cronache) // [2 Cronache](#2-cronache) // [Esdra](#esdra) // [Ester](#ester) // [Giobbe](#giobbe) // [Salmi](#salmi) // [Proverbi](#proverbi) // [Qoelet](#qoelet) // [Isaia](#isaia) // [Geremia](#geremia) // [Lamentazioni](#lamentazioni) // [Daniele](#daniele) // [Gioele](#gioele) // [Michea](#michea) // [Abacuc](#abacuc) // [Sofonia](#sofonia) // [Zaccaria](#zaccaria) // [Matteo](#matteo) // [Marco](#marco) // [Luca](#luca) // [Giovanni](#giovanni) // [Atti](#atti) // [Romani](#romani) // [1 Corinzi](#1-corinzi) // [2 Corinzi](#2-corinzi) // [Galati](#galati) // [Efesini](#efesini) // [Filippesi](#filippesi) // [Colossesi](#colossesi) // [1 Tessalonicesi](#1-tessalonicesi) // [2 Tessalonicesi](#2-tessalonicesi) // [1 Timoteo](#1-timoteo) // [2 Timoteo](#2-timoteo) // [Tito](#tito) // [Ebrei](#ebrei) // [Giacomo](#giacomo) // [1 Pietro](#1-pietro) // [1 Giovanni](#1-giovanni) // [Giuda](#giuda) // [Apocalisse](#apocalisse)
+<span id="by-author"></span>↳ autore / libro <span class="counter">// <span id="books-status">…</span> libri</span>
+</pre>
+<div id="books" class="cols"><span class="counter">// libri: see below</span></div>
+<pre>
 
 <span id="by-topic"></span>↳ <a href="topics.html">argomento</a>
 
@@ -1851,6 +1871,32 @@
 ↳ <a href="post.html?p=bible/luke_6-17-49.txt">Luca 6:17-49</a> il discorso della pianura *
 <a href="#" class="top-link">[↳ top]</a>
 </pre>
+<script>
+  (function () {
+    var box = document.getElementById("books");
+    var status = document.getElementById("books-status");
+    var lines = document.body.innerHTML.split("\n");
+    var header = /^<span id="([a-z0-9-]+)"><\/span>([^<]+)<span class="counter"> \/\/ <a href="post\.html\?p=what-is-it\//;
+    var books = [];
+
+    for (var i = 0; i < lines.length; i++) {
+      var m = header.exec(lines[i]);
+      if (!m) continue;
+      var count = 0;
+      for (var j = i + 1; j < lines.length; j++) {
+        if (lines[j].indexOf('class="top-link"') !== -1) break;
+        if (lines[j].indexOf("\u21b3 <a href=\"post.html?p=") === 0) count++;
+      }
+      books.push('<div class="row"><a href="#' + m[1] + '">' + m[2].trim() +
+        '</a><span class="counter">' + count + "</span></div>");
+    }
+
+    if (books.length) {
+      box.innerHTML = books.join("");
+      status.textContent = String(books.length);
+    }
+  })();
+</script>
   </body>
 </html>
 <a href="#" class="top-link">[↳ top]</a>
