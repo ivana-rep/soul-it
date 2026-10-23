@@ -11,9 +11,12 @@ sapere, volere, fare, discernere: questa, magari in un altro ordine, potrebbe es
 
 ---
 
-~ ↳ source: breviario francescano del 29 agosto 2026
+~ ↳ fonte: breviario francescano del 29 agosto 2026
 
-~ ↳ related verses >
+~ ↳ vedi connessione con un santo >
+~ [Ignazio di Loyola](post.html?p=saints/ignazio-di-loyola.txt)
+
+~ ↳ versetti correlati >
 ~ [Michea 6:8](post.html?p=bible/micah_6-8.txt) | Dio chiama il Suo popolo a praticare la giustizia, amare la misericordia e camminare umilmente con Lui
 
 > vedi [un altro](post.html?p=commonplace/contento-di-quello-che-dispone-dio.txt)

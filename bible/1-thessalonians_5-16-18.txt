@@ -12,6 +12,9 @@
 
 ~ ↳ vedi tutte le preghiere > [tutte le preghiere](all-prayers-archive.html)
 
+~ ↳ vedi connessione con un santo >
+~ [Ignazio di Loyola](post.html?p=saints/ignazio-di-loyola.txt)
+
 ~ ↳ versetti correlati >
 ~ [Abacuc 3:17-19](post.html?p=bible/habakkuk_3-17-19.txt) | io gioirò nel Signore
 
